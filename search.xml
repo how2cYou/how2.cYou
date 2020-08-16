@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>FINAL FANTASY VII Remake&amp;Original4曲メドレー[ピアノ]</title>
+      <title>FINAL FANTASY VII Remake&amp;Original 4曲メドレー[ピアノ]</title>
       <link href="/2020/08/16/FINAL-FANTASY-VII-Remake-Original-4-songs-medley/"/>
       <url>/2020/08/16/FINAL-FANTASY-VII-Remake-Original-4-songs-medley/</url>
       
-        <content type="html"><![CDATA[<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","video":{"url":"https://cdn.jsdelivr.net/gh/how2cYou/how2cYou-storage/video/ff7.m3u8","pic":"https://cdn.jsdelivr.net/gh/how2cYou/how2cYou-storage/image/ff7.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+        <content type="html"><![CDATA[<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","preload":"no","video":{"url":"https://cdn.jsdelivr.net/gh/how2cYou/how2cyou-storage0/piano/FF7.m3u8","pic":"https://cdn.jsdelivr.net/gh/how2cYou/how2cYou-storage0/image/FF7.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
       
       
       
